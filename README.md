@@ -8,6 +8,14 @@ This repository is preserved as part of my software engineering portfolio to sho
 
 ---
 
+# 📷 Screenshot
+
+The image below shows the bot running in a Discord server and responding to wallet commands.
+
+<img width="1106" height="533" alt="discordbot" src="https://github.com/user-attachments/assets/1d07439c-06e8-4ed2-9cce-af7262aadd16" />
+
+---
+
 # 🚀 Features
 
 - User registration
