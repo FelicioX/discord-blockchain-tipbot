@@ -8,7 +8,7 @@ This repository is preserved as part of my software engineering portfolio to sho
 
 ---
 
-# 📷 Screenshot
+# Screenshot
 
 The image below shows the bot running in a Discord server and responding to wallet commands.
 
@@ -16,7 +16,7 @@ The image below shows the bot running in a Discord server and responding to wall
 
 ---
 
-# 🚀 Features
+# Features
 
 - User registration
 - Wallet management
@@ -31,7 +31,7 @@ The image below shows the bot running in a Discord server and responding to wall
 
 ---
 
-# 🛠 Technologies
+# Technologies
 
 - Python
 - Discord API
@@ -43,7 +43,7 @@ The image below shows the bot running in a Discord server and responding to wall
 
 ---
 
-# 📁 Project Structure
+# Project Structure
 
 ```
 tipbotdiscord.py
@@ -54,7 +54,7 @@ LICENSE
 
 ---
 
-# ⚙ Installation
+# Installation
 
 Clone the repository
 
@@ -82,7 +82,7 @@ python tipbotdiscord.py
 
 ---
 
-# 📌 Configuration
+# Configuration
 
 The bot requires a local configuration file containing:
 
@@ -94,7 +94,7 @@ Sensitive configuration files should **never** be committed to the repository.
 
 ---
 
-# 🎯 Purpose
+# Purpose
 
 This project was developed as a practical implementation of a cryptocurrency wallet and tipping bot integrated with blockchain nodes through JSON-RPC.
 
@@ -109,7 +109,7 @@ It demonstrates concepts including:
 
 ---
 
-# 📜 Historical Note
+# Historical Note
 
 This project was originally developed in 2019 as part of the Dash Platinum blockchain ecosystem.
 
@@ -117,13 +117,13 @@ It is preserved in this repository as a historical portfolio project demonstrati
 
 ---
 
-# 📄 License
+# License
 
 This project is licensed under the MIT License.
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Felicio Xavier**
 
